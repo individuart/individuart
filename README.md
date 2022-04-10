@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @individuart, Jesús García
+- 👀 I’m interested in all things related with web development, good practises, agile and clean code. I have a full stack soul and I like to learn every day brand new stuff.
+- 🌱 I’m currently learning k8s and improving my knowledge in Github actions, CI/CD processes and Python.
