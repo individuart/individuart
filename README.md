@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @individuart, Jesús García
+- 👋 Hi, I’m Jesús García a.k.a. @individuart.
 - 👀 I’m interested in all things related with web development, good practises, agile and clean code. I have a full stack soul and I like to learn every day brand new stuff.
-- ⚛️ Actually working as a frontend developer with ReactJS
-- 🌱 I’m currently learning k8s and improving my knowledge in Github actions, CI/CD processes and Python.
+- ⚛️ Working as a frontend developer with ReactJS
+- 🌱 Currently learning k8s and improving my knowledge in Github actions, CI/CD processes and Python.
